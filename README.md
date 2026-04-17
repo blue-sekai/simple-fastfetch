@@ -1,5 +1,5 @@
 # simple-fastfetch
-A simple fastfetch configuration that only shows what actaully matters
+A simple fastfetch configuration that only shows what actually matters
 
 Requires a Nerd Font for the symbols
 
